@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alucard\\Practicas\\Prueba t\u00E9cnica-.NET Developer- Bluesoft Technology\\BluesoftBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BEE526-75BC-4487-8BF7-2A841919B353}|BluesoftBank.csproj|c:\\alucard\\practicas\\prueba t\u00E9cnica-.net developer- bluesoft technology\\bluesoftbank\\controllers\\bluesoftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BEE526-75BC-4487-8BF7-2A841919B353}|BluesoftBank.csproj|solutionrelative:controllers\\bluesoftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BluesoftController.cs",
+              "DocumentMoniker": "C:\\Alucard\\Practicas\\Prueba t\u00E9cnica-.NET Developer- Bluesoft Technology\\BluesoftBank\\Controllers\\BluesoftController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BluesoftController.cs",
+              "ToolTip": "C:\\Alucard\\Practicas\\Prueba t\u00E9cnica-.NET Developer- Bluesoft Technology\\BluesoftBank\\Controllers\\BluesoftController.cs",
+              "RelativeToolTip": "Controllers\\BluesoftController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T19:27:17.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
